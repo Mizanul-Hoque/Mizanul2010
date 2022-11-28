@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi there :bald_man:
+I'm Mizanul, a self-taught data analyst from the UK.
 
-<!--
-**Mizanul2010/Mizanul2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:page_facing_up: About Me  
+:briefcase: Currently a Service Desk Analyst looking to move into a Power BI developer role  
+:computer: Taught myself SQL, Power BI, DAX and Power Query  
 
-Here are some ideas to get you started:
+📚 Projects & Guides 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Core Competencies 💡  
+Tools: SQL, Power BI  
+Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development  
+
+⚡️ Currently ⚡️  
+Brushing up on data cleaning and wrangling skills with Advanced SQL  
+Working on Projects for Portfolio using SQL and Power BI  
+
+🙌🏻 Connect with Me
+
